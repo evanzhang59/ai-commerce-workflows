@@ -1,0 +1,98 @@
+[
+  {
+    "module": "shopify-product-listing-package",
+    "file": "references/adaptive-content-framework.md",
+    "sha256": "00e9b38073f98d642a1151fec63c72a5f6f7bb9a2389fb64989d36bc64176b04",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "shopify-product-listing-package",
+    "file": "references/listing-manifest-contract.md",
+    "sha256": "5212bc1e22f711574ad4daa626e9198da6272b921d9e21edff83d304b0791908",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "shopify-product-listing-package",
+    "file": "references/shopify-import-guardrails.md",
+    "sha256": "1ae2b4bbb203e5c36d20fb2d5c4d5674c1ea7fd57002550d8c11676f34e4bd34",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "shopify-product-listing-package",
+    "file": "references/source-authority-and-replay.md",
+    "sha256": "e04261fcf8df0d630fcab607baa90e03a4f805186ef31d6a6b08fee946965e87",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "shopify-product-listing-package",
+    "file": "scripts/validate_listing_manifest.py",
+    "sha256": "d5dba7033aceecfa775f6c11e22b1b601dbf18559d489f60bb50018623e26d5c",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "shopify-product-listing-package",
+    "file": "WORKFLOW.md",
+    "sha256": "fdccd4b09772ca4e8df89783bf25c4daffdfa8cf304f15bdcd4ce7932569773a",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "sku-upc-exact-reconciliation",
+    "file": "references/identity-rules.md",
+    "sha256": "4d5094f02673842b3740e9ae19e9ab2d7479ff1f1675b284713ec985870c0da5",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "sku-upc-exact-reconciliation",
+    "file": "references/output-contract.md",
+    "sha256": "ef132567e14b0e3df872e01b0bf0b520a555cfc507e1a59c7a59e9c2936cbfb4",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "sku-upc-exact-reconciliation",
+    "file": "scripts/reconcile_identifiers.py",
+    "sha256": "f671bdad50866c2ec7c67074d21a75552506fd6c8f28b159dd44da5c35fbf6b5",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "sku-upc-exact-reconciliation",
+    "file": "WORKFLOW.md",
+    "sha256": "70f0f1925c3e0a844d2ac285133ccd006a9530bb15e99d79f1972c7eae6f69f8",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "product-image-asset-pipeline",
+    "file": "references/acquisition-and-recovery-handoff.md",
+    "sha256": "5dce4903c41d6b02318b847c61900241f77af54c820a823ff444076125fdc60b",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "product-image-asset-pipeline",
+    "file": "references/asset-manifest-contract.md",
+    "sha256": "8a0ca4bf6d91ed32d468e484d5c11946945445485a351b4bc872d978daafcebe",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "product-image-asset-pipeline",
+    "file": "references/channel-image-rules.md",
+    "sha256": "08820b14463bc98546a57d6edfbeb275f46dcbf6bc27746590b1c5c9e5af2750",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "product-image-asset-pipeline",
+    "file": "scripts/audit_image_assets.py",
+    "sha256": "669ec48038d2574254a6fdc511111bd79872f0b64d0a9b5263668ba6374acdc8",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "product-image-asset-pipeline",
+    "file": "scripts/stage_ready_assets.py",
+    "sha256": "9993d0afecc3c32c91bb80fa6bd0e95d2b994a2c61c7396801a7b21b2fcf28a9",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  },
+  {
+    "module": "product-image-asset-pipeline",
+    "file": "WORKFLOW.md",
+    "sha256": "9d167bbc529e0d194d80574c640223f8adc4a6aa048a48226fdd073e2745f618",
+    "source": "Personal installed Skill collection; snapshot 2026-11-10"
+  }
+]
