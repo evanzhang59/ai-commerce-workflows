@@ -4,7 +4,7 @@
 
 I use experience in commerce operations, SEO and product development to define what the AI should do, which records it should trust and how the result should be checked. Codex assists with implementation; I direct the requirements, review exceptions and make delivery decisions.
 
-This repository makes that work inspectable: original bounded Skill modules, their supporting validators, and small executable demonstrations of two engineering patterns. It is a portfolio companion, not a production integration or the source of my employer's applications.
+This repository makes that work inspectable: original bounded Skill modules, their supporting validators, and small executable demonstrations of recovery, data synchronization and cart interaction. It is a portfolio companion, not a production integration or the source of my employer's applications.
 
 ## Three perspectives
 
@@ -43,7 +43,7 @@ These are deterministic demonstrations with synthetic fixtures. They do not meas
 
 ## Source and authorship
 
-The three Skill modules are snapshots from my working collection, including full workflows, referenced local guides and Python validators. `SKILL.md` duplicates each module's original `WORKFLOW.md` to provide a conventional entry point. Original bytes are recorded in [source-manifest.json](docs/source-manifest.json).
+The three Skill modules are snapshots from my working collection, including full workflows, referenced local guides and Python validators. `SKILL.md` duplicates each module's original `WORKFLOW.md` to provide a conventional entry point. Original-file checksums are recorded in [source-manifest.json](docs/source-manifest.json). GitHub normalizes text line endings to LF; `asset-manifest-contract.md` originally used CRLF. Its text is unchanged.
 
 The engineering examples are newly written, self-contained explanations of patterns used in my projects. They use fake products and records. Private system identifiers, credentials, customer data and company application source are excluded.
 
